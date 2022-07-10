@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AlumniSystem/StudentAlumni/app/src/main/res/layout/activity_ad__events_.xml" value="0.17916666666666667" />
+        <entry key="..\:/AlumniSystem/StudentAlumni/app/src/main/res/layout/activity_s__events_.xml" value="0.17916666666666667" />
+        <entry key="..\:/AlumniSystem/StudentAlumni/app/src/main/res/layout/ad_activity_dashboard_.xml" value="0.17916666666666667" />
+        <entry key="..\:/AlumniSystem/StudentAlumni/app/src/main/res/layout/ad_activity_main2.xml" value="0.17916666666666667" />
+        <entry key="..\:/AlumniSystem/StudentAlumni/app/src/main/res/layout/ad_activity_student__verify.xml" value="0.17916666666666667" />
+        <entry key="..\:/AlumniSystem/StudentAlumni/app/src/main/res/layout/ad_alumni__fragment.xml" value="0.17916666666666667" />
+        <entry key="..\:/AlumniSystem/StudentAlumni/app/src/main/res/layout/ad_alumni__register__fragment.xml" value="0.17916666666666667" />
+        <entry key="..\:/AlumniSystem/StudentAlumni/app/src/main/res/layout/ad_alumni_design.xml" value="0.264" />
+        <entry key="..\:/AlumniSystem/StudentAlumni/app/src/main/res/layout/ad_alumni_design_exp.xml" value="0.264" />
+        <entry key="..\:/AlumniSystem/StudentAlumni/app/src/main/res/layout/ad_event_design_exp.xml" value="0.17916666666666667" />
+        <entry key="..\:/AlumniSystem/StudentAlumni/app/src/main/res/layout/ad_events_design.xml" value="0.264" />
+        <entry key="..\:/AlumniSystem/StudentAlumni/app/src/main/res/layout/ad_notices__fragment.xml" value="0.17916666666666667" />
+        <entry key="..\:/AlumniSystem/StudentAlumni/app/src/main/res/layout/ad_placement_design_exp.xml" value="0.17916666666666667" />
+        <entry key="..\:/AlumniSystem/StudentAlumni/app/src/main/res/layout/ad_placements__fragment.xml" value="0.17916666666666667" />
+        <entry key="..\:/AlumniSystem/StudentAlumni/app/src/main/res/layout/ad_placements_design.xml" value="0.17916666666666667" />
+        <entry key="..\:/AlumniSystem/StudentAlumni/app/src/main/res/layout/ad_student_design.xml" value="0.4" />
+        <entry key="..\:/AlumniSystem/StudentAlumni/app/src/main/res/layout/ad_student_design_exp.xml" value="0.4" />
+        <entry key="..\:/AlumniSystem/StudentAlumni/app/src/main/res/layout/ad_stundent__fragment.xml" value="0.17916666666666667" />
+        <entry key="..\:/AlumniSystem/StudentAlumni/app/src/main/res/layout/al_alumni__fragment.xml" value="0.17916666666666667" />
+        <entry key="..\:/AlumniSystem/StudentAlumni/app/src/main/res/layout/al_alumni_design.xml" value="0.17916666666666667" />
+        <entry key="..\:/AlumniSystem/StudentAlumni/app/src/main/res/layout/al_alumni_design_exp.xml" value="0.264" />
+        <entry key="..\:/AlumniSystem/StudentAlumni/app/src/main/res/layout/al_more_placements.xml" value="0.17916666666666667" />
+        <entry key="..\:/AlumniSystem/StudentAlumni/app/src/main/res/layout/al_placements__fragment.xml" value="0.17916666666666667" />
+        <entry key="..\:/AlumniSystem/StudentAlumni/app/src/main/res/layout/al_placements_design.xml" value="0.17916666666666667" />
+        <entry key="..\:/AlumniSystem/StudentAlumni/app/src/main/res/layout/alumni_placement_design.xml" value="0.17916666666666667" />
+        <entry key="..\:/AlumniSystem/StudentAlumni/app/src/main/res/layout/forgetpass_input.xml" value="0.1503623188405797" />
+        <entry key="..\:/AlumniSystem/StudentAlumni/app/src/main/res/layout/s_event_design_exp.xml" value="0.17916666666666667" />
+        <entry key="..\:/AlumniSystem/StudentAlumni/app/src/main/res/layout/s_events_design.xml" value="0.17916666666666667" />
+        <entry key="..\:/AlumniSystem/StudentAlumni/app/src/main/res/layout/sactivity_alumni__fragment.xml" value="0.17916666666666667" />
+        <entry key="..\:/AlumniSystem/StudentAlumni/app/src/main/res/layout/sactivity_login.xml" value="0.17916666666666667" />
+        <entry key="..\:/AlumniSystem/StudentAlumni/app/src/main/res/layout/sactivity_placements__fragment.xml" value="0.17916666666666667" />
+        <entry key="..\:/AlumniSystem/StudentAlumni/app/src/main/res/layout/salumni_design.xml" value="0.17916666666666667" />
+        <entry key="..\:/AlumniSystem/StudentAlumni/app/src/main/res/layout/sfilterdes.xml" value="0.17916666666666667" />
+        <entry key="..\:/AlumniSystem/StudentAlumni/app/src/main/res/layout/sortfilterdes.xml" value="0.17916666666666667" />
+        <entry key="..\:/AlumniSystem/StudentAlumni/app/src/main/res/layout/splacement_design_exp.xml" value="0.17916666666666667" />
+        <entry key="..\:/AlumniSystem/StudentAlumni/app/src/main/res/layout/splacements_design.xml" value="0.17916666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
